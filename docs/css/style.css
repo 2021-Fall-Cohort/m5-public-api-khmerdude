@@ -1,0 +1,41 @@
+body {
+    background: #e1adad;
+    font-size: 1.5rem;
+  }
+
+  body {
+    background: #e1adad;
+    font-size: 1.5rem;
+  }
+
+  input {
+    padding: 30px 100px 30px 100px;
+    border-radius: 50px;
+    font-size: 1.5rem;
+    box-shadow: inset 12px 12px 12px #cbced1, inset -12px -12px 12px white;
+  }
+  button {
+    margin-top: 10px;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px;
+    background: #e1adad;
+    box-shadow: 5px 5px 10px #cb9c9c, -5px -5px 10px #f8bebe;
+  }
+
+  footer {
+    background-color: rgb(49, 204, 178);
+    color: white;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.yodaTranslate {
+    padding: auto;
+    margin-top: 20px;
+    display: flex;
+   
+}
